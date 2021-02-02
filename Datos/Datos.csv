@@ -1,0 +1,666 @@
+﻿Provincia,Canton,Distrito,Acumulados,Recuperados,Fallecidos,Activos
+SAN JOSE,ACOSTA,Cangrejal,1,1,0,0
+SAN JOSE,ACOSTA,Guaitil,2,0,0,2
+SAN JOSE,ACOSTA,Palmichal,5,0,0,5
+SAN JOSE,ACOSTA,Sabanillas,1,0,0,1
+SAN JOSE,ACOSTA,San Ignacio,17,0,0,17
+SAN JOSE,ACOSTA,Sin informacion de distrito,1,0,0,1
+SAN JOSE,Alajuelita,,477,77,2,398
+SAN JOSE,Alajuelita,Alajuelita,91,26,1,64
+SAN JOSE,Alajuelita,Concepcion,109,14,0,95
+SAN JOSE,Alajuelita,San Antonio,26,2,0,24
+SAN JOSE,Alajuelita,San Felipe,190,23,1,166
+SAN JOSE,Alajuelita,SAN JOSEcito,55,10,0,45
+SAN JOSE,Alajuelita,Sin informacion de distrito,6,2,0,4
+SAN JOSE,Aserri,,101,34,0,67
+SAN JOSE,Aserri,Aserri,69,27,0,42
+SAN JOSE,Aserri,Legua,0,0,0,0
+SAN JOSE,Aserri,Monterrey,1,0,0,1
+SAN JOSE,Aserri,Salitrillos,12,1,0,11
+SAN JOSE,Aserri,San Gabriel,3,0,0,3
+SAN JOSE,Aserri,Tarbaca,2,0,0,2
+SAN JOSE,Aserri,Vuelta de Jorco,6,0,0,6
+SAN JOSE,Aserri,Sin informacion de distrito,8,6,0,2
+SAN JOSE,Curridabat,,157,44,0,113
+SAN JOSE,Curridabat,Curridabat,70,19,0,51
+SAN JOSE,Curridabat,Granadilla,35,13,0,22
+SAN JOSE,Curridabat,Sanchez,5,3,0,2
+SAN JOSE,Curridabat,Tirrases,46,9,0,37
+SAN JOSE,Curridabat,Sin informacion de distrito,1,0,0,1
+SAN JOSE,Desamparados,,576,118,3,455
+SAN JOSE,Desamparados,Damas,23,4,1,18
+SAN JOSE,Desamparados,Desamparados,121,29,0,92
+SAN JOSE,Desamparados,Frailes,2,0,0,2
+SAN JOSE,Desamparados,Gravilias,32,6,0,26
+SAN JOSE,Desamparados,Los Guido,76,8,0,68
+SAN JOSE,Desamparados,Patarra,33,13,0,20
+SAN JOSE,Desamparados,Rosario,3,0,0,3
+SAN JOSE,Desamparados,San Antonio,10,4,0,6
+SAN JOSE,Desamparados,San Cristobal,0,0,0,0
+SAN JOSE,Desamparados,San Juan de Dios,55,15,0,40
+SAN JOSE,Desamparados,San Miguel,61,9,1,51
+SAN JOSE,Desamparados,San Rafael Abajo,116,18,1,97
+SAN JOSE,Desamparados,San Rafael Arriba,28,7,0,21
+SAN JOSE,Desamparados,Sin informacion de distrito,16,5,0,11
+SAN JOSE,Dota,,0,0,0,0
+SAN JOSE,Dota,Copey,0,0,0,0
+SAN JOSE,Dota,Jardin,0,0,0,0
+SAN JOSE,Dota,Santa Maria,0,0,0,0
+SAN JOSE,Dota,Sin informacion de distrito,0,0,0,0
+SAN JOSE,Escazu,,163,51,1,111
+SAN JOSE,Escazu,Escazu,50,13,1,36
+SAN JOSE,Escazu,San Antonio,32,4,0,28
+SAN JOSE,Escazu,San Rafael,79,33,0,46
+SAN JOSE,Escazu,Sin informacion de distrito,2,1,0,1
+SAN JOSE,Goicoechea,,225,62,0,163
+SAN JOSE,Goicoechea,Calle Blancos,32,5,0,27
+SAN JOSE,Goicoechea,Guadalupe,37,11,0,26
+SAN JOSE,Goicoechea,Ipis,39,21,0,18
+SAN JOSE,Goicoechea,Mata de Platano,25,2,0,23
+SAN JOSE,Goicoechea,Purral,80,16,0,64
+SAN JOSE,Goicoechea,Rancho Redondo,3,2,0,1
+SAN JOSE,Goicoechea,San Francisco,5,1,0,4
+SAN JOSE,Goicoechea,Sin informacion de distrito,4,4,0,0
+SAN JOSE,Leon Cortes Castro,,1,0,0,1
+SAN JOSE,Leon Cortes Castro,Llano Bonito,1,0,0,1
+SAN JOSE,Leon Cortes Castro,San Andres,0,0,0,0
+SAN JOSE,Leon Cortes Castro,San Antonio,0,0,0,0
+SAN JOSE,Leon Cortes Castro,San Isidro,0,0,0,0
+SAN JOSE,Leon Cortes Castro,San Pablo,0,0,0,0
+SAN JOSE,Leon Cortes Castro,Santa Cruz,0,0,0,0
+SAN JOSE,Leon Cortes Castro,Sin informacion de distrito,0,0,0,0
+SAN JOSE,Montes de Oca,,76,26,0,50
+SAN JOSE,Montes de Oca,Mercedes,3,1,0,2
+SAN JOSE,Montes de Oca,Sabanilla,15,9,0,6
+SAN JOSE,Montes de Oca,San Pedro,39,8,0,31
+SAN JOSE,Montes de Oca,San Rafael,19,8,0,11
+SAN JOSE,Montes de Oca,Sin informacion de distrito,0,0,0,0
+SAN JOSE,Mora,,44,13,1,30
+SAN JOSE,Mora,Colon,38,13,1,24
+SAN JOSE,Mora,Guayabo,5,0,0,5
+SAN JOSE,Mora,Jaris,0,0,0,0
+SAN JOSE,Mora,Picagres,0,0,0,0
+SAN JOSE,Mora,Piedras Negras,0,0,0,0
+SAN JOSE,Mora,Quitirrisi,0,0,0,0
+SAN JOSE,Mora,Tabarcia,1,0,0,1
+SAN JOSE,Mora,Sin informacion de distrito,0,0,0,0
+SAN JOSE,Moravia,,82,23,0,59
+SAN JOSE,Moravia,La Trinidad,37,6,0,31
+SAN JOSE,Moravia,San Jeronimo,6,3,0,3
+SAN JOSE,Moravia,San Vicente,39,14,0,25
+SAN JOSE,Moravia,Sin informacion de distrito,0,0,0,0
+SAN JOSE,Perez Zeledon,,18,8,0,10
+SAN JOSE,Perez Zeledon,Baru,0,0,0,0
+SAN JOSE,Perez Zeledon,Cajon,0,0,0,0
+SAN JOSE,Perez Zeledon,Daniel Flores,4,3,0,1
+SAN JOSE,Perez Zeledon,El General,0,0,0,0
+SAN JOSE,Perez Zeledon,La  Amistad,0,0,0,0
+SAN JOSE,Perez Zeledon,Paramo,1,0,0,1
+SAN JOSE,Perez Zeledon,Pejibaye,0,0,0,0
+SAN JOSE,Perez Zeledon,Platanares,0,0,0,0
+SAN JOSE,Perez Zeledon,Rio Nuevo,0,0,0,0
+SAN JOSE,Perez Zeledon,Rivas,0,0,0,0
+SAN JOSE,Perez Zeledon,San Isidro de El General,12,4,0,8
+SAN JOSE,Perez Zeledon,San Pedro,0,0,0,0
+SAN JOSE,Perez Zeledon,Sin informacion de distrito,1,1,0,0
+SAN JOSE,Puriscal,,23,2,0,21
+SAN JOSE,Puriscal,Barbacoas,4,1,0,3
+SAN JOSE,Puriscal,Candelarita,0,0,0,0
+SAN JOSE,Puriscal,Chires,1,0,0,1
+SAN JOSE,Puriscal,Desamparaditos,0,0,0,0
+SAN JOSE,Puriscal,Grifo Alto,0,0,0,0
+SAN JOSE,Puriscal,Mercedes Sur,1,0,0,1
+SAN JOSE,Puriscal,San Antonio,7,1,0,6
+SAN JOSE,Puriscal,San Rafael,1,0,0,1
+SAN JOSE,Puriscal,Santiago,9,0,0,9
+SAN JOSE,Puriscal,Sin informacion de distrito,0,0,0,0
+SAN JOSE,San Jose,,1702,230,8,1464
+SAN JOSE,San Jose,Catedral,63,15,0,48
+SAN JOSE,San Jose,El Carmen,37,8,0,29
+SAN JOSE,San Jose,Hatillo,184,42,0,142
+SAN JOSE,San Jose,Hospital,170,19,2,149
+SAN JOSE,San Jose,Mata Redonda,24,9,0,15
+SAN JOSE,San Jose,Merced,156,17,1,138
+SAN JOSE,San Jose,Pavas,539,24,1,514
+SAN JOSE,San Jose,San Francisco de Dos Rios,30,12,0,18
+SAN JOSE,San Jose,San Sebastian,131,36,1,94
+SAN JOSE,San Jose,Uruca,334,37,1,296
+SAN JOSE,San Jose,Zapote,25,5,2,18
+SAN JOSE,San Jose,Sin informacion de distrito,9,6,0,3
+SAN JOSE,Santa Ana,,147,50,1,96
+SAN JOSE,Santa Ana,Brasil,3,0,0,3
+SAN JOSE,Santa Ana,Piedades,16,4,0,12
+SAN JOSE,Santa Ana,Pozos,53,19,0,34
+SAN JOSE,Santa Ana,Salitral,18,6,0,12
+SAN JOSE,Santa Ana,Santa Ana,38,14,0,24
+SAN JOSE,Santa Ana,Uruca,9,4,1,4
+SAN JOSE,Santa Ana,Sin informacion de distrito,10,3,0,7
+SAN JOSE,Tarrazu,,4,4,0,0
+SAN JOSE,Tarrazu,San Carlos,0,0,0,0
+SAN JOSE,Tarrazu,San Lorenzo,1,1,0,0
+SAN JOSE,Tarrazu,San Marcos,3,3,0,0
+SAN JOSE,Tarrazu,Sin informacion de distrito,0,0,0,0
+SAN JOSE,Tibas,,180,35,1,144
+SAN JOSE,Tibas,Anselmo Llorente,6,4,0,2
+SAN JOSE,Tibas,Cinco Esquinas,27,7,0,20
+SAN JOSE,Tibas,Colima,16,3,0,13
+SAN JOSE,Tibas,Leon XIII,98,13,1,84
+SAN JOSE,Tibas,San Juan,33,8,0,25
+SAN JOSE,Tibas,Sin informacion de distrito,0,0,0,0
+SAN JOSE,Turrubares,,9,2,0,7
+SAN JOSE,Turrubares,Carara,5,0,0,5
+SAN JOSE,Turrubares,San Juan de Mata,2,0,0,2
+SAN JOSE,Turrubares,San Luis,0,0,0,0
+SAN JOSE,Turrubares,San Pablo,2,2,0,0
+SAN JOSE,Turrubares,San Pedro,0,0,0,0
+SAN JOSE,Turrubares,Sin informacion de distrito,0,0,0,0
+SAN JOSE,Vazquez de Coronado,,100,28,0,72
+SAN JOSE,Vazquez de Coronado,Cascajal,7,0,0,7
+SAN JOSE,Vazquez de Coronado,Dulce Nombre de Jesus,32,9,0,23
+SAN JOSE,Vazquez de Coronado,Patalillo,22,10,0,12
+SAN JOSE,Vazquez de Coronado,San Isidro,18,6,0,12
+SAN JOSE,Vazquez de Coronado,San Rafael,16,2,0,14
+SAN JOSE,Vazquez de Coronado,Sin informacion de distrito,5,1,0,4
+SAN JOSE,Sin informacion de Canton,,4,0,0,4
+Alajuela,,,1570,707,9,854
+Alajuela,Alajuela,,507,108,4,395
+Alajuela,Alajuela,Alajuela,116,42,1,73
+Alajuela,Alajuela,Carrizal,22,8,0,14
+Alajuela,Alajuela,Desamparados,40,5,0,35
+Alajuela,Alajuela,Garita,4,1,0,3
+Alajuela,Alajuela,Guacima,37,8,0,29
+Alajuela,Alajuela,Rio Segundo,19,4,1,14
+Alajuela,Alajuela,Sabanilla,15,6,0,9
+Alajuela,Alajuela,San Antonio,45,11,0,34
+Alajuela,Alajuela,San Isidro,33,3,1,29
+Alajuela,Alajuela,San Jose,50,2,0,48
+Alajuela,Alajuela,San Rafael,94,13,0,81
+Alajuela,Alajuela,Sarapiqui,0,0,0,0
+Alajuela,Alajuela,Tambor,19,1,1,17
+Alajuela,Alajuela,Turrucares,10,3,0,7
+Alajuela,Alajuela,Sin informacion de distrito,3,1,0,2
+Alajuela,Atenas,,24,6,0,18
+Alajuela,Atenas,Atenas,9,1,0,8
+Alajuela,Atenas,Concepcion,3,1,0,2
+Alajuela,Atenas,Escobal,0,0,0,0
+Alajuela,Atenas,Jesus,5,1,0,4
+Alajuela,Atenas,Mercedes,2,0,0,2
+Alajuela,Atenas,San Isidro,2,1,0,1
+Alajuela,Atenas,San Jose,2,1,0,1
+Alajuela,Atenas,Santa Eulalia,1,1,0,0
+Alajuela,Atenas,Sin informacion de distrito,0,0,0,0
+Alajuela,Grecia,,46,15,1,30
+Alajuela,Grecia,Bolivar,1,1,0,0
+Alajuela,Grecia,Grecia,15,6,1,8
+Alajuela,Grecia,Puente de Piedra,8,0,0,8
+Alajuela,Grecia,San Isidro,7,5,0,2
+Alajuela,Grecia,San Jose,3,0,0,3
+Alajuela,Grecia,San Roque,4,1,0,3
+Alajuela,Grecia,Tacares,6,2,0,4
+Alajuela,Grecia,Sin informacion de distrito,2,0,0,2
+Alajuela,Guatuso,,93,30,1,62
+Alajuela,Guatuso,Buenavista,9,2,0,7
+Alajuela,Guatuso,Cote,0,0,0,0
+Alajuela,Guatuso,Katira,2,0,0,2
+Alajuela,Guatuso,San Rafael,82,28,1,53
+Alajuela,Guatuso,Sin informacion de distrito,0,0,0,0
+Alajuela,Los Chiles,,125,55,1,69
+Alajuela,Los Chiles,Caño Negro,0,0,0,0
+Alajuela,Los Chiles,El Amparo,7,0,0,7
+Alajuela,Los Chiles,Los Chiles,117,54,1,62
+Alajuela,Los Chiles,San Jorge,0,0,0,0
+Alajuela,Los Chiles,Sin informacion de distrito,1,1,0,0
+Alajuela,Naranjo,,37,13,1,23
+Alajuela,Naranjo,Cirri Sur,3,0,0,3
+Alajuela,Naranjo,El Rosario,7,3,0,4
+Alajuela,Naranjo,Naranjo,8,3,1,4
+Alajuela,Naranjo,Palmitos,1,1,0,0
+Alajuela,Naranjo,San Jeronimo,9,3,0,6
+Alajuela,Naranjo,San Jose,2,1,0,1
+Alajuela,Naranjo,San Juan,3,0,0,3
+Alajuela,Naranjo,San Miguel,3,1,0,2
+Alajuela,Naranjo,Sin informacion de distrito,1,1,0,0
+Alajuela,Orotina,,13,9,0,4
+Alajuela,Orotina,Coyolar,5,4,0,1
+Alajuela,Orotina,El Mastate,1,0,0,1
+Alajuela,Orotina,Hacienda Vieja,1,1,0,0
+Alajuela,Orotina,La Ceiba,0,0,0,0
+Alajuela,Orotina,Orotina,6,4,0,2
+Alajuela,Orotina,Sin informacion de distrito,0,0,0,0
+Alajuela,Palmares,,49,13,0,36
+Alajuela,Palmares,Buenos Aires,11,2,0,9
+Alajuela,Palmares,Candelaria,3,1,0,2
+Alajuela,Palmares,Esquipulas,10,2,0,8
+Alajuela,Palmares,La Granja,9,0,0,9
+Alajuela,Palmares,Palmares,10,3,0,7
+Alajuela,Palmares,Santiago,2,2,0,0
+Alajuela,Palmares,Zaragoza,4,3,0,1
+Alajuela,Palmares,Sin informacion de distrito,0,0,0,0
+Alajuela,Poas,,26,13,0,13
+Alajuela,Poas,Carrillos,7,3,0,4
+Alajuela,Poas,Sabana Redonda,3,2,0,1
+Alajuela,Poas,San Juan,6,2,0,4
+Alajuela,Poas,San Pedro,7,5,0,2
+Alajuela,Poas,San Rafael,3,1,0,2
+Alajuela,Poas,Sin informacion de distrito,0,0,0,0
+Alajuela,Rio Cuarto,,0,0,0,0
+Alajuela,Rio Cuarto,Rio Cuarto,0,0,0,0
+Alajuela,Rio Cuarto,Santa Isabel,0,0,0,0
+Alajuela,Rio Cuarto,Santa Rita,0,0,0,0
+Alajuela,Rio Cuarto,Sin informacion de distrito,0,0,0,0
+Alajuela,San Carlos,,322,233,0,89
+Alajuela,San Carlos,Aguas Zarcas,12,10,0,2
+Alajuela,San Carlos,Buenavista,0,0,0,0
+Alajuela,San Carlos,Cutris,8,1,0,7
+Alajuela,San Carlos,Florencia,33,26,0,7
+Alajuela,San Carlos,La Fortuna,145,131,0,14
+Alajuela,San Carlos,La Palmera,4,3,0,1
+Alajuela,San Carlos,La Tigra,12,3,0,9
+Alajuela,San Carlos,Monterrey,0,0,0,0
+Alajuela,San Carlos,Pital,21,16,0,5
+Alajuela,San Carlos,Pocosol,38,0,0,38
+Alajuela,San Carlos,Quesada,45,41,0,4
+Alajuela,San Carlos,Venado,1,0,0,1
+Alajuela,San Carlos,Venecia,2,1,0,1
+Alajuela,San Carlos,Sin informacion de distrito,1,1,0,0
+Alajuela,San Mateo,,3,1,0,2
+Alajuela,San Mateo,Desmonte,0,0,0,0
+Alajuela,San Mateo,Jesus Maria,1,1,0,0
+Alajuela,San Mateo,Labrador,2,0,0,2
+Alajuela,San Mateo,San Mateo,0,0,0,0
+Alajuela,San Mateo,Sin informacion de distrito,0,0,0,0
+Alajuela,San Ramon,,183,121,0,62
+Alajuela,San Ramon,Alfaro,2,0,0,2
+Alajuela,San Ramon,angeles,8,5,0,3
+Alajuela,San Ramon,Concepcion,0,0,0,0
+Alajuela,San Ramon,Peñas Blancas,93,80,0,13
+Alajuela,San Ramon,Piedades Norte,4,0,0,4
+Alajuela,San Ramon,Piedades Sur,4,2,0,2
+Alajuela,San Ramon,San Isidro,12,10,0,2
+Alajuela,San Ramon,San Juan,25,9,0,16
+Alajuela,San Ramon,San Lorenzo,0,0,0,0
+Alajuela,San Ramon,San Rafael,3,2,0,1
+Alajuela,San Ramon,San Ramon,20,8,0,12
+Alajuela,San Ramon,Santiago,2,2,0,0
+Alajuela,San Ramon,Volio,4,0,0,4
+Alajuela,San Ramon,Zapotal,0,0,0,0
+Alajuela,San Ramon,Sin informacion de distrito,6,3,0,3
+Alajuela,San Ramon,,15,8,0,7
+Alajuela,San Ramon,Rodriguez,0,0,0,0
+Alajuela,San Ramon,San Pedro,6,3,0,3
+Alajuela,San Ramon,Sarchi Norte,5,2,0,3
+Alajuela,San Ramon,Sarchi Sur,3,3,0,0
+Alajuela,San Ramon,Toro Amarillo,1,0,0,1
+Alajuela,San Ramon,Sin informacion de distrito,0,0,0,0
+Alajuela,Upala,,115,76,1,38
+Alajuela,Upala,Aguas Claras,3,2,0,1
+Alajuela,Upala,Bijagua,2,2,0,0
+Alajuela,Upala,Canalete,4,2,0,2
+Alajuela,Upala,Delicias,30,25,0,5
+Alajuela,Upala,Dos Rios,0,0,0,0
+Alajuela,Upala,San Jose O Pizote,35,14,0,21
+Alajuela,Upala,Upala,40,30,1,9
+Alajuela,Upala,Yolillal,1,1,0,0
+Alajuela,Upala,Sin informacion de distrito,0,0,0,0
+Alajuela,Zarcero,,12,6,0,6
+Alajuela,Zarcero,Brisas,2,1,0,1
+Alajuela,Zarcero,Guadalupe,1,0,0,1
+Alajuela,Zarcero,Laguna,1,0,0,1
+Alajuela,Zarcero,Palmira,0,0,0,0
+Alajuela,Zarcero,Tapesco,6,3,0,3
+Alajuela,Zarcero,Zapote,0,0,0,0
+Alajuela,Zarcero,Zarcero,2,2,0,0
+Alajuela,Zarcero,Sin informacion de distrito,0,0,0,0
+Alajuela,Sin informacion de Canton,,0,0,0,0
+Cartago,,,311,117,1,193
+Cartago,Alvarado,,2,1,0,1
+Cartago,Alvarado,Capellades,0,0,0,0
+Cartago,Alvarado,Cervantes,2,1,0,1
+Cartago,Alvarado,Pacayas,0,0,0,0
+Cartago,Alvarado,Sin informacion de distrito,0,0,0,0
+Cartago,Cartago,,74,26,0,48
+Cartago,Cartago,Aguacaliente o San Francisco,18,6,0,12
+Cartago,Cartago,Carmen,8,2,0,6
+Cartago,Cartago,Corralillo,1,0,0,1
+Cartago,Cartago,Dulce Nombre,5,2,0,3
+Cartago,Cartago,Guadalupe o Arenilla,5,2,0,3
+Cartago,Cartago,Llano Grande,3,2,0,1
+Cartago,Cartago,Occidental,4,1,0,3
+Cartago,Cartago,Oriental,8,4,0,4
+Cartago,Cartago,Quebradilla,3,0,0,3
+Cartago,Cartago,San Nicolas,19,7,0,12
+Cartago,Cartago,Tierra Blanca,0,0,0,0
+Cartago,Cartago,Sin informacion de distrito,0,0,0,0
+Cartago,El Guarco,,24,9,0,15
+Cartago,El Guarco,El Tejar,18,7,0,11
+Cartago,El Guarco,Patio de Agua,0,0,0,0
+Cartago,El Guarco,San Isidro,5,1,0,4
+Cartago,El Guarco,Tobosi,0,0,0,0
+Cartago,El Guarco,Sin informacion de distrito,1,1,0,0
+Cartago,Jimenez,,8,8,0,0
+Cartago,Jimenez,Juan Viñas,1,1,0,0
+Cartago,Jimenez,Pejibaye,0,0,0,0
+Cartago,Jimenez,Tucurrique,7,7,0,0
+Cartago,Jimenez,Sin informacion de distrito,0,0,0,0
+Cartago,La Union,,150,50,1,99
+Cartago,La Union,Concepcion,32,13,0,19
+Cartago,La Union,Dulce Nombre,6,1,0,5
+Cartago,La Union,Rio Azul,33,11,1,21
+Cartago,La Union,San Diego,25,4,0,21
+Cartago,La Union,San Juan,11,10,0,1
+Cartago,La Union,San Rafael,15,4,0,11
+Cartago,La Union,San Ramon,5,2,0,3
+Cartago,La Union,Tres Rios,23,5,0,18
+Cartago,La Union,Sin informacion de distrito,0,0,0,0
+Cartago,Oreamuno,,31,15,0,16
+Cartago,Oreamuno,Cipreses,4,4,0,0
+Cartago,Oreamuno,Cot,4,0,0,4
+Cartago,Oreamuno,Potrero Cerrado,0,0,0,0
+Cartago,Oreamuno,San Rafael,12,10,0,2
+Cartago,Oreamuno,Santa Rosa,11,1,0,10
+Cartago,Oreamuno,Sin informacion de distrito,0,0,0,0
+Cartago,Paraiso,,14,6,0,8
+Cartago,Paraiso,Cachi,2,1,0,1
+Cartago,Paraiso,Llanos de Santa Lucia,4,2,0,2
+Cartago,Paraiso,Orosi,1,0,0,1
+Cartago,Paraiso,Paraiso,5,3,0,2
+Cartago,Paraiso,Santiago,2,0,0,2
+Cartago,Paraiso,Sin informacion de distrito,0,0,0,0
+Cartago,Turrialba,,8,2,0,6
+Cartago,Turrialba,Chirripo,1,0,0,1
+Cartago,Turrialba,La Isabel,0,0,0,0
+Cartago,Turrialba,La Suiza,2,1,0,1
+Cartago,Turrialba,Pavones,1,0,0,1
+Cartago,Turrialba,Peralta,0,0,0,0
+Cartago,Turrialba,Santa Cruz,1,1,0,0
+Cartago,Turrialba,Santa Rosa,0,0,0,0
+Cartago,Turrialba,Santa Teresita,0,0,0,0
+Cartago,Turrialba,Tayutic,1,0,0,1
+Cartago,Turrialba,Tres Equis,0,0,0,0
+Cartago,Turrialba,Tuis,0,0,0,0
+Cartago,Turrialba,Turrialba,2,0,0,2
+Cartago,Turrialba,Sin informacion de distrito,0,0,0,0
+Cartago,Sin informacion de Canton,,0,0,0,0
+Heredia,,,827,182,1,644
+Heredia,Barva,,55,19,0,36
+Heredia,Barva,Barva,11,5,0,6
+Heredia,Barva,San Jose de la Montaña,6,0,0,6
+Heredia,Barva,San Pablo,5,2,0,3
+Heredia,Barva,San Pedro,22,9,0,13
+Heredia,Barva,San Roque,7,2,0,5
+Heredia,Barva,Santa Lucia,4,1,0,3
+Heredia,Barva,Sin informacion de distrito,0,0,0,0
+Heredia,Belen,,56,24,0,32
+Heredia,Belen,La Asuncion,5,0,0,5
+Heredia,Belen,La Ribera,28,17,0,11
+Heredia,Belen,San Antonio,22,7,0,15
+Heredia,Belen,Sin informacion de distrito,1,0,0,1
+Heredia,Flores,,29,5,0,24
+Heredia,Flores,Barrantes,5,1,0,4
+Heredia,Flores,Llorente,10,2,0,8
+Heredia,Flores,San Joaquin,14,2,0,12
+Heredia,Flores,Sin informacion de distrito,0,0,0,0
+Heredia,Heredia,,400,62,1,337
+Heredia,Heredia,Heredia,76,21,0,55
+Heredia,Heredia,Mercedes,85,19,0,66
+Heredia,Heredia,San Francisco,193,15,1,177
+Heredia,Heredia,Ulloa,44,6,0,38
+Heredia,Heredia,Varablanca,0,0,0,0
+Heredia,Heredia,Sin informacion de distrito,2,1,0,1
+Heredia,San Isidro,,39,2,0,37
+Heredia,San Isidro,Concepcion,1,0,0,1
+Heredia,San Isidro,San Francisco,8,0,0,8
+Heredia,San Isidro,San Isidro,25,1,0,24
+Heredia,San Isidro,San Jose,4,1,0,3
+Heredia,San Isidro,Sin informacion de distrito,1,0,0,1
+Heredia,San Pablo,,59,20,0,39
+Heredia,San Pablo,Rincon de Sabanilla,10,2,0,8
+Heredia,San Pablo,San Pablo,49,18,0,31
+Heredia,San Pablo,Sin informacion de distrito,0,0,0,0
+Heredia,San Rafael,,77,18,0,59
+Heredia,San Rafael,angeles,15,6,0,9
+Heredia,San Rafael,Concepcion,7,3,0,4
+Heredia,San Rafael,SAN JOSEcito,27,3,0,24
+Heredia,San Rafael,San Rafael,24,5,0,19
+Heredia,San Rafael,Santiago,3,1,0,2
+Heredia,San Rafael,Sin informacion de distrito,1,0,0,1
+Heredia,Santa Barbara,,41,13,0,28
+Heredia,Santa Barbara,Jesus,13,2,0,11
+Heredia,Santa Barbara,Puraba,3,2,0,1
+Heredia,Santa Barbara,San Juan,7,2,0,5
+Heredia,Santa Barbara,San Pedro,4,0,0,4
+Heredia,Santa Barbara,Santa Barbara,10,3,0,7
+Heredia,Santa Barbara,Santo Domingo,4,4,0,0
+Heredia,Santa Barbara,Sin informacion de distrito,0,0,0,0
+Heredia,Santo Domingo,,56,14,0,42
+Heredia,Santo Domingo,Para,6,1,0,5
+Heredia,Santo Domingo,Paracito,3,0,0,3
+Heredia,Santo Domingo,San Miguel,14,2,0,12
+Heredia,Santo Domingo,San Vicente,4,1,0,3
+Heredia,Santo Domingo,Santa Rosa,7,2,0,5
+Heredia,Santo Domingo,Santo Domingo,10,6,0,4
+Heredia,Santo Domingo,Santo Tomas,4,1,0,3
+Heredia,Santo Domingo,Tures,8,1,0,7
+Heredia,Santo Domingo,Sin informacion de distrito,0,0,0,0
+Heredia,Sarapiqui,,15,5,0,10
+Heredia,Sarapiqui,Cureña,0,0,0,0
+Heredia,Sarapiqui,La Virgen,3,1,0,2
+Heredia,Sarapiqui,Las Horquetas,9,1,0,8
+Heredia,Sarapiqui,Llanuras del Gaspar,0,0,0,0
+Heredia,Sarapiqui,Puerto Viejo,3,3,0,0
+Heredia,Sarapiqui,Sin informacion de distrito,0,0,0,0
+Heredia,Sin informacion de Canton,,0,0,0,0
+Guanacaste,,,440,227,2,211
+Guanacaste,Abangares,,26,21,0,5
+Guanacaste,Abangares,Colorado,0,0,0,0
+Guanacaste,Abangares,Las Juntas,22,20,0,2
+Guanacaste,Abangares,San Juan,3,0,0,3
+Guanacaste,Abangares,Sierra,1,1,0,0
+Guanacaste,Abangares,Sin informacion de distrito,0,0,0,0
+Guanacaste,Bagaces,,31,21,0,10
+Guanacaste,Bagaces,Bagaces,25,15,0,10
+Guanacaste,Bagaces,La Fortuna,4,4,0,0
+Guanacaste,Bagaces,Mogote,1,1,0,0
+Guanacaste,Bagaces,Rio Naranjo,1,1,0,0
+Guanacaste,Bagaces,Sin informacion de distrito,0,0,0,0
+Guanacaste,Cañas,,78,25,0,53
+Guanacaste,Cañas,Bebedero,5,2,0,3
+Guanacaste,Cañas,Cañas,66,18,0,48
+Guanacaste,Cañas,Palmira,0,0,0,0
+Guanacaste,Cañas,Porozal,0,0,0,0
+Guanacaste,Cañas,San Miguel,7,5,0,2
+Guanacaste,Cañas,Sin informacion de distrito,0,0,0,0
+Guanacaste,Carrillo,,18,5,0,13
+Guanacaste,Carrillo,Belen,3,0,0,3
+Guanacaste,Carrillo,Filadelfia,4,1,0,3
+Guanacaste,Carrillo,Palmira,2,1,0,1
+Guanacaste,Carrillo,Sardinal,9,3,0,6
+Guanacaste,Carrillo,Sin informacion de distrito,0,0,0,0
+Guanacaste,Hojancha,,20,13,0,7
+Guanacaste,Hojancha,Hojancha,7,3,0,4
+Guanacaste,Hojancha,Huacas,0,0,0,0
+Guanacaste,Hojancha,Matambu,11,10,0,1
+Guanacaste,Hojancha,Monte Romo,0,0,0,0
+Guanacaste,Hojancha,Puerto Carrillo,0,0,0,0
+Guanacaste,Hojancha,Sin informacion de distrito,2,0,0,2
+Guanacaste,La Cruz,,49,23,1,25
+Guanacaste,La Cruz,La Cruz,39,19,1,19
+Guanacaste,La Cruz,La Garita,2,0,0,2
+Guanacaste,La Cruz,Santa Cecilia,4,1,0,3
+Guanacaste,La Cruz,Santa Elena,4,3,0,1
+Guanacaste,La Cruz,Sin informacion de distrito,0,0,0,0
+Guanacaste,Liberia,,87,37,0,50
+Guanacaste,Liberia,Cañas Dulces,2,1,0,1
+Guanacaste,Liberia,Curubande,0,0,0,0
+Guanacaste,Liberia,Liberia,82,35,0,47
+Guanacaste,Liberia,Mayorga,0,0,0,0
+Guanacaste,Liberia,Nacascolo,2,1,0,1
+Guanacaste,Liberia,Sin informacion de distrito,1,0,0,1
+Guanacaste,Nandayure,,1,1,0,0
+Guanacaste,Nandayure,Bejuco,0,0,0,0
+Guanacaste,Nandayure,Carmona,1,1,0,0
+Guanacaste,Nandayure,Porvenir,0,0,0,0
+Guanacaste,Nandayure,San Pablo,0,0,0,0
+Guanacaste,Nandayure,Santa Rita,0,0,0,0
+Guanacaste,Nandayure,Zapotal,0,0,0,0
+Guanacaste,Nandayure,Sin informacion de distrito,0,0,0,0
+Guanacaste,Nicoya,,86,58,1,27
+Guanacaste,Nicoya,Belen de Nosarita,0,0,0,0
+Guanacaste,Nicoya,Mansion,3,0,0,3
+Guanacaste,Nicoya,Nicoya,74,53,1,20
+Guanacaste,Nicoya,Nosara,2,2,0,0
+Guanacaste,Nicoya,Quebrada Honda,1,0,0,1
+Guanacaste,Nicoya,Samara,2,2,0,0
+Guanacaste,Nicoya,San Antonio,4,1,0,3
+Guanacaste,Nicoya,Sin informacion de distrito,0,0,0,0
+Guanacaste,Santa Cruz,,35,17,0,18
+Guanacaste,Santa Cruz,Bolson,0,0,0,0
+Guanacaste,Santa Cruz,Cabo Velas,1,1,0,0
+Guanacaste,Santa Cruz,Cartagena,0,0,0,0
+Guanacaste,Santa Cruz,Cuajiniquil,0,0,0,0
+Guanacaste,Santa Cruz,Diria,3,1,0,2
+Guanacaste,Santa Cruz,Santa Cruz,25,11,0,14
+Guanacaste,Santa Cruz,Tamarindo,4,3,0,1
+Guanacaste,Santa Cruz,Tempate,1,1,0,0
+Guanacaste,Santa Cruz,Veintisiete de Abril,0,0,0,0
+Guanacaste,Santa Cruz,Sin informacion de distrito,1,0,0,1
+Guanacaste,Tilaran,,8,6,0,2
+Guanacaste,Tilaran,Arenal,2,2,0,0
+Guanacaste,Tilaran,Libano,0,0,0,0
+Guanacaste,Tilaran,Quebrada Grande,3,3,0,0
+Guanacaste,Tilaran,Santa Rosa,0,0,0,0
+Guanacaste,Tilaran,Tierras Morenas,0,0,0,0
+Guanacaste,Tilaran,Tilaran,3,1,0,2
+Guanacaste,Tilaran,Tronadora,0,0,0,0
+Guanacaste,Tilaran,Sin informacion de distrito,0,0,0,0
+Guanacaste,Sin informacion de Canton,,1,0,0,1
+Puntarenas,,,371,141,0,230
+Puntarenas,Buenos Aires,,3,2,0,1
+Puntarenas,Buenos Aires,Biolley,0,0,0,0
+Puntarenas,Buenos Aires,Boruca,0,0,0,0
+Puntarenas,Buenos Aires,Brunka,2,1,0,1
+Puntarenas,Buenos Aires,Buenos Aires,1,1,0,0
+Puntarenas,Buenos Aires,Changuena,0,0,0,0
+Puntarenas,Buenos Aires,Colinas,0,0,0,0
+Puntarenas,Buenos Aires,Pilas,0,0,0,0
+Puntarenas,Buenos Aires,Potrero Grande,0,0,0,0
+Puntarenas,Buenos Aires,Volcan,0,0,0,0
+Puntarenas,Buenos Aires,Sin informacion de distrito,0,0,0,0
+Puntarenas,Corredores,,130,24,0,106
+Puntarenas,Corredores,Canoas,55,8,0,47
+Puntarenas,Corredores,Corredor,41,3,0,38
+Puntarenas,Corredores,La Cuesta,28,13,0,15
+Puntarenas,Corredores,Laurel,5,0,0,5
+Puntarenas,Corredores,Sin informacion de distrito,1,0,0,1
+Puntarenas,Coto Brus,,4,2,0,2
+Puntarenas,Coto Brus,Aguabuena,1,0,0,1
+Puntarenas,Coto Brus,Gutierrez Braun,0,0,0,0
+Puntarenas,Coto Brus,Limoncito,0,0,0,0
+Puntarenas,Coto Brus,Pittier,0,0,0,0
+Puntarenas,Coto Brus,Sabalito,1,0,0,1
+Puntarenas,Coto Brus,San Vito,2,2,0,0
+Puntarenas,Coto Brus,Sin informacion de distrito,0,0,0,0
+Puntarenas,Esparza,,15,8,0,7
+Puntarenas,Esparza,Caldera,1,1,0,0
+Puntarenas,Esparza,Espiritu Santo,7,2,0,5
+Puntarenas,Esparza,Macacona,3,3,0,0
+Puntarenas,Esparza,San Jeronimo,0,0,0,0
+Puntarenas,Esparza,San Juan Grande,2,2,0,0
+Puntarenas,Esparza,San Rafael,2,0,0,2
+Puntarenas,Esparza,Sin informacion de distrito,0,0,0,0
+Puntarenas,Garabito,,31,27,0,4
+Puntarenas,Garabito,Jaco,29,25,0,4
+Puntarenas,Garabito,Tarcoles,2,2,0,0
+Puntarenas,Garabito,Sin informacion de distrito,0,0,0,0
+Puntarenas,Golfito,,37,4,0,33
+Puntarenas,Golfito,Golfito,5,2,0,3
+Puntarenas,Golfito,Guaycara,7,2,0,5
+Puntarenas,Golfito,Pavon,25,0,0,25
+Puntarenas,Golfito,Puerto Jimenez,0,0,0,0
+Puntarenas,Golfito,Sin informacion de distrito,0,0,0,0
+Puntarenas,Montes de Oro,,3,2,0,1
+Puntarenas,Montes de Oro,La Union,0,0,0,0
+Puntarenas,Montes de Oro,Miramar,3,2,0,1
+Puntarenas,Montes de Oro,San Isidro,0,0,0,0
+Puntarenas,Montes de Oro,Sin informacion de distrito,0,0,0,0
+Puntarenas,Osa,,13,7,0,6
+Puntarenas,Osa,Bahia Ballena,3,0,0,3
+Puntarenas,Osa,Bahia Drake,0,0,0,0
+Puntarenas,Osa,Palmar,0,0,0,0
+Puntarenas,Osa,Piedras Blancas,1,0,0,1
+Puntarenas,Osa,Puerto Cortes,8,6,0,2
+Puntarenas,Osa,Sierpe,0,0,0,0
+Puntarenas,Osa,Sin informacion de distrito,1,1,0,0
+Puntarenas,Parrita,,1,1,0,0
+Puntarenas,Parrita,Parrita,1,1,0,0
+Puntarenas,Parrita,Sin informacion de distrito,0,0,0,0
+Puntarenas,Puntarenas,,121,58,0,63
+Puntarenas,Puntarenas,Acapulco,6,2,0,4
+Puntarenas,Puntarenas,Arancibia,2,2,0,0
+Puntarenas,Puntarenas,Barranca,41,21,0,20
+Puntarenas,Puntarenas,Chacarita,3,1,0,2
+Puntarenas,Puntarenas,Chira,1,0,0,1
+Puntarenas,Puntarenas,Chomes,3,2,0,1
+Puntarenas,Puntarenas,Cobano,1,1,0,0
+Puntarenas,Puntarenas,El Roble,7,3,0,4
+Puntarenas,Puntarenas,Guacimal,9,1,0,8
+Puntarenas,Puntarenas,Isla del Coco,0,0,0,0
+Puntarenas,Puntarenas,Lepanto,3,0,0,3
+Puntarenas,Puntarenas,Manzanillo,2,1,0,1
+Puntarenas,Puntarenas,Monte Verde,3,0,0,3
+Puntarenas,Puntarenas,Paquera,33,24,0,9
+Puntarenas,Puntarenas,Pitahaya,2,0,0,2
+Puntarenas,Puntarenas,Puntarenas,5,0,0,5
+Puntarenas,Puntarenas,Sin informacion de distrito,0,0,0,0
+Puntarenas,Quepos,,13,6,0,7
+Puntarenas,Quepos,Naranjito,2,0,0,2
+Puntarenas,Quepos,Quepos,11,6,0,5
+Puntarenas,Quepos,Savegre,0,0,0,0
+Puntarenas,Quepos,Sin informacion de distrito,0,0,0,0
+Puntarenas,Sin informacion de Canton,,0,0,0,0
+Limon,,,223,106,1,116
+Limon,Guacimo,,21,3,0,18
+Limon,Guacimo,Duacari,0,0,0,0
+Limon,Guacimo,Guacimo,16,2,0,14
+Limon,Guacimo,Mercedes,0,0,0,0
+Limon,Guacimo,Pocora,2,1,0,1
+Limon,Guacimo,Rio Jimenez,3,0,0,3
+Limon,Guacimo,Sin informacion de distrito,0,0,0,0
+Limon,Limon,,47,32,0,15
+Limon,Limon,Limon,28,21,0,7
+Limon,Limon,Matama,2,2,0,0
+Limon,Limon,Rio Blanco,0,0,0,0
+Limon,Limon,Valle de La Estrella,16,8,0,8
+Limon,Limon,Sin informacion de distrito,1,1,0,0
+Limon,Matina,,9,3,1,5
+Limon,Matina,Batan,6,3,1,2
+Limon,Matina,Carrandi,0,0,0,0
+Limon,Matina,Matina,3,0,0,3
+Limon,Matina,Sin informacion de distrito,0,0,0,0
+Limon,Pococi,,113,60,0,53
+Limon,Pococi,Cariari,51,39,0,12
+Limon,Pococi,Colorado,0,0,0,0
+Limon,Pococi,Guapiles,37,9,0,28
+Limon,Pococi,Jimenez,4,2,0,2
+Limon,Pococi,La Colonia,0,0,0,0
+Limon,Pococi,Rita,7,2,0,5
+Limon,Pococi,Roxana,13,7,0,6
+Limon,Pococi,Sin informacion de distrito,1,1,0,0
+Limon,Siquirres,,14,7,0,7
+Limon,Siquirres,El Cairo,2,0,0,2
+Limon,Siquirres,Florida,1,0,0,1
+Limon,Siquirres,Germania,2,2,0,0
+Limon,Siquirres,La Alegria,0,0,0,0
+Limon,Siquirres,Pacuarito,1,1,0,0
+Limon,Siquirres,Reventazon,0,0,0,0
+Limon,Siquirres,Siquirres,8,4,0,4
+Limon,Siquirres,Sin informacion de distrito,0,0,0,0
+Limon,Talamanca,,19,1,0,18
+Limon,Talamanca,Bratsi,1,0,0,1
+Limon,Talamanca,Cahuita,18,1,0,17
+Limon,Talamanca,Sixaola,0,0,0,0
+Limon,Talamanca,Telire,0,0,0,0
+Limon,Talamanca,Sin informacion de distrito,0,0,0,0
+Limon,Sin informacion de Canton,,0,0,0,0
+Otros2,,,178,16,0,162
+TOTAL,,,8036,2304,31,5701
